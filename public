@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Sklep MegaZakupy - Twoje zakupy online" />
+    <title>MegaZakupy</title>
+  </head>
+  <body>
+    <noscript>Musisz włączyć JavaScript, aby uruchomić tę aplikację.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
